@@ -175,6 +175,8 @@ body {
     height: 90%;
     object-fit: cover;  
     border-radius: 6px;
+    transform: scale(0.9); 
+    transition: transform 0.3s ease; 
 }
 
 .slider .movie:hover {
